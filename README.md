@@ -6,7 +6,7 @@
 + Application returns the least amount of change possible
 
 ## How To Set Up
-+ Upload the code to an IDE that supports java
++ Upload ExactChange.java to an IDE that supports java
   + I have used jGRASP, other IDEs may not work the same way
 + Save and compile
 
